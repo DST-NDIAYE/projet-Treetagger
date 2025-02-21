@@ -279447,3 +279447,3039 @@ trifle	NN	trifle
 too	RB	too
 voluptuous	JJ	voluptuous
 .	.	.
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+happy	JJ	happy
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting.	NN	interesting.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting	JJ	interesting
+to	NN	to
+read.	NN	read.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+complex	JJ	complex
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+hard	JJ	hard
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+complex.	NN	complex.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+happy	JJ	happy
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+to	NN	to
+read.	NN	read.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+hard	JJ	hard
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+happy.	NN	happy.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+easy	NN	easy
+to	NN	to
+read.	NN	read.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+happy.	NN	happy.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious	JJ	delicious
+to	NN	to
+read.	NN	read.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+to	NN	to
+read.	NN	read.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+boring	JJ	boring
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious	JJ	delicious
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting.	NN	interesting.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+big.	NN	big.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+boring	JJ	boring
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring.	NN	tiring.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting.	NN	interesting.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting	JJ	interesting
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+to	NN	to
+understand.	NN	understand.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious	JJ	delicious
+to	NN	to
+read.	NN	read.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+complex.	NN	complex.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting	JJ	interesting
+to	NN	to
+read.	NN	read.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+easy	NN	easy
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious	JJ	delicious
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+easy	NN	easy
+to	NN	to
+understand.	NN	understand.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+complex	JJ	complex
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring.	NN	tiring.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+complex.	NN	complex.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting.	NN	interesting.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+happy	JJ	happy
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+interesting.	NN	interesting.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+boring	JJ	boring
+to	NN	to
+understand.	NN	understand.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+hard	JJ	hard
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+happy.	NN	happy.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+complex.	NN	complex.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+happy.	NN	happy.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+to	NN	to
+read.	NN	read.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+easy	NN	easy
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+boring	JJ	boring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+to	NN	to
+read.	NN	read.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+long.	NN	long.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+long.	NN	long.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+happy	JJ	happy
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting.	NN	interesting.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting	JJ	interesting
+to	NN	to
+read.	NN	read.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+complex	JJ	complex
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+hard	JJ	hard
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+complex.	NN	complex.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+happy	JJ	happy
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+to	NN	to
+read.	NN	read.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+hard	JJ	hard
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+happy.	NN	happy.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+easy	NN	easy
+to	NN	to
+read.	NN	read.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+happy.	NN	happy.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious	JJ	delicious
+to	NN	to
+read.	NN	read.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+to	NN	to
+read.	NN	read.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+boring	JJ	boring
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious	JJ	delicious
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting.	NN	interesting.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+big.	NN	big.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+boring	JJ	boring
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring.	NN	tiring.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting.	NN	interesting.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting	JJ	interesting
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+to	NN	to
+understand.	NN	understand.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious	JJ	delicious
+to	NN	to
+read.	NN	read.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+complex.	NN	complex.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting	JJ	interesting
+to	NN	to
+read.	NN	read.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+easy	NN	easy
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious	JJ	delicious
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+easy	NN	easy
+to	NN	to
+understand.	NN	understand.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+complex	JJ	complex
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring.	NN	tiring.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+complex.	NN	complex.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+interesting.	NN	interesting.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+delicious.	NN	delicious.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+movie	NN	movie
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+happy	JJ	happy
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+interesting.	NN	interesting.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+boring	JJ	boring
+to	NN	to
+understand.	NN	understand.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+hard	JJ	hard
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+delicious.	NN	delicious.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+happy.	NN	happy.
+
+The	DT	the
+explanation	NN	explanation
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+complex.	NN	complex.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+happy.	NN	happy.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+to	NN	to
+read.	NN	read.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+long	JJ	long
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+hard.	NN	hard.
+
+It	NN	it
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+to	NN	to
+understand.	NN	understand.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+big.	NN	big.
+
+The	DT	the
+speech	NN	speech
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+long.	NN	long.
+
+She	NN	she
+wasn’t	VBD	wasn’t
+that	RB	that
+easy	NN	easy
+about	NN	about
+the	DT	the
+news.	NN	news.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+storm	NN	storm
+wasn’t	VBD	wasn’t
+that	RB	that
+easy.	NN	easy.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+boring	JJ	boring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+book	NN	book
+wasn’t	VBD	wasn’t
+that	RB	that
+big	JJ	big
+to	NN	to
+read.	NN	read.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+easy.	NN	easy.
+
+The	DT	the
+coffee	NN	coffee
+wasn’t	VBD	wasn’t
+that	RB	that
+boring.	NN	boring.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+long.	NN	long.
+
+I	NN	i
+didn't	NN	didn't
+know	NN	know
+it	NN	it
+would	NN	would
+be	NN	be
+that	RB	that
+long.	NN	long.
+
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+

@@ -1,0 +1,831 @@
+I	NN	i
+wasn’t	VBD	wasn’t
+that	RB	that
+tiring	JJ	tiring
+after	NN	after
+the	DT	the
+trip.	NN	trip.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+book	NN	book
+that	WPR	that
+they	NN	they
+built	VBD	built
+is	VBZ	is
+impressive.	NN	impressive.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+car	NN	car
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+project	NN	project
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+painting	NN	painting
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+they	NN	they
+adopted	VBD	adopted
+is	VBZ	is
+adorable.	NN	adorable.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+saw	VBD	saw
+was	VBD	was
+incredible.	NN	incredible.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+she	NN	she
+painted	VBD	painted
+was	VBD	was
+stunning.	NN	stunning.
+
+The	DT	the
+idea	NN	idea
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
+The	DT	the
+house	NN	house
+that	WPR	that
+we	NN	we
+attended	VBD	attended
+was	VBD	was
+amazing.	NN	amazing.
+
+The	DT	the
+dog	NN	dog
+that	WPR	that
+I	NN	i
+used	VBD	used
+worked	NN	worked
+perfectly.	NN	perfectly.
+
+The	DT	the
+movie	NN	movie
+that	WPR	that
+she	NN	she
+designed	VBD	designed
+won	VBD	won
+an	NN	an
+award.	NN	award.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+he	NN	he
+wrote	NN	wrote
+became	VBD	became
+famous.	NN	famous.
+
+The	DT	the
+system	NN	system
+that	WPR	that
+he	NN	he
+fixed	VBD	fixed
+is	VBZ	is
+working	NN	working
+again.	NN	again.
+
+The	DT	the
+speech	NN	speech
+that	WPR	that
+we	NN	we
+discussed	VBD	discussed
+was	VBD	was
+interesting.	NN	interesting.
+
